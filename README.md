@@ -1,1 +1,3 @@
-# Dennis-L-vold-js1-ma1
+# Answers for JavaScript 1 Module Asssignment 1
+
+by Dennis =)
